@@ -80,4 +80,17 @@
 <br><br>
 <H2>Voici une simple illustration qui décrit la démarche</H2>
 <br><br>
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/219461909-212aa8a9-8424-4079-8408-6a0d4abebdd6.jpg">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/219462224-525a4705-7264-4058-b5e8-384f04e9633d.jpg">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/219462442-b3f767f0-c6d7-48b7-a1b0-ee547db629c1.jpg">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/219462455-d8e0c049-7803-4b58-94a2-71136dd7b004.jpg">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/219462474-b8c18526-affc-46ec-83bf-cfc4b35bc180.jpg">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/219462493-de247ff9-00d9-45e9-b5bb-677e4d260cdb.jpg">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/219462524-8d398012-e165-4a5e-a8ff-2e2d4dcb3a39.jpg">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/219462566-36ab3bf0-36da-447b-aa70-ebb2708e1d0a.jpg">
+
+
+
+
+
 
