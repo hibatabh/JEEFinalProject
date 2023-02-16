@@ -80,5 +80,4 @@
 <br><br>
 <H2>Voici une simple illustration qui décrit la démarche</H2>
 <br><br>
-![image](https://user-images.githubusercontent.com/85077579/219458894-fd606ef4-63c5-47cf-8b0e-755ed22185a5.png)
 
