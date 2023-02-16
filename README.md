@@ -63,6 +63,8 @@
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/85077579/209161523-8b767686-c830-445b-a5c4-14841bae5934.png">
 <h4>cette interface nous donne plus d'informations sue la commande avec le total ainsi que les différents informations du client </h4>
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/85077579/209162072-4c004d8e-67d1-4d12-ba96-ec7c3e41e088.png">
-
-
+<h1>KEYCLOAK</h1>
+<H2>omment on a procéder pour ajouter la partie sécurité</H2>
+<H3>keycloak</H3>
+<H4>Keycloak est un système d'authentification et d'autorisation open source qui permet aux applications de gérer de manière sécurisée l'accès des utilisateurs aux ressources de l'application. Il fournit des fonctionnalités telles que l'authentification unique, la gestion des identités, la gestion des sessions utilisateur.</H4>
 
