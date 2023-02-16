@@ -67,4 +67,18 @@
 <H2>omment on a procéder pour ajouter la partie sécurité</H2>
 <H3>keycloak</H3>
 <H4>Keycloak est un système d'authentification et d'autorisation open source qui permet aux applications de gérer de manière sécurisée l'accès des utilisateurs aux ressources de l'application. Il fournit des fonctionnalités telles que l'authentification unique, la gestion des identités, la gestion des sessions utilisateur.</H4>
+<p>
+<H3>1-J'installe et configure Keycloak :</H3> Tout d'abord, je dois installer et configurer Keycloak. Cela implique de créer  des clients, des utilisateurs et des rôles.
+<br><br>
+<H3>2-J'ajoute les dépendances Keycloak à mon projet :</H3> Je dois ajouter les dépendances Keycloak à mon projet  pour que celui-ci puisse communiquer avec Keycloak.
+<br><br>
+<H3>3-Je configure mon projet  pour utiliser Keycloak :</H3> Je dois maintenant configurer mon projet  pour utiliser Keycloak. Cela implique de configurer mon serveur d'application  pour utiliser le connecteur Keycloak, de configurer mes fichiers de configuration  pour utiliser le connecteur Keycloak, etc.
+<br><br>
+<H3>4-Je protège mes microservices :</H3> Une fois que mon projet  est configuré pour utiliser Keycloak, je peux maintenant protéger mes microservices. Cela implique de définir les rôles et les autorisations dont j'ai besoin, d'ajouter des filtres pour vérifier l'authentification et l'autorisation, etc.
+<br><br>
+<H3>5-Je teste ma solution : </H3>Enfin, je dois tester ma solution. Cela implique de me connecter à mon application en utilisant Keycloak, de tester les différents rôles et autorisations, de vérifier les erreurs d'authentification et d'autorisation, etc.</p>
+<br><br>
+<H2>Voici une simple illustration qui décrit la démarche</H2>
+<br><br>
+![image](https://user-images.githubusercontent.com/85077579/219458894-fd606ef4-63c5-47cf-8b0e-755ed22185a5.png)
 
